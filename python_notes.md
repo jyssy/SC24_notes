@@ -1,6 +1,8 @@
 ## notes for python 24 demo workshop -  11-18-2024
 == https://hppss.github.io/SC24/index.html# 
-== matthewrocklin.com
+
+- - papers: https://hppss.github.io/SC24/papers.html
+
 Repo of [images](python_demo) from the Python workshop
 
 ###  Dask
@@ -19,7 +21,8 @@ Repo of [images](python_demo) from the Python workshop
 - - The Blaze Ecosystem: https://blaze.pydata.org/
 - - uses COILED
 - - use APIs
-- - 
+- - matthewrocklin.com
+- - files in [dask](dask)
 
 ### Coiled
 - - https://www.coiled.io/
@@ -40,16 +43,23 @@ Repo of [images](python_demo) from the Python workshop
 - - if you can write numpy code, you can write arkouda code
 - - More than NumPY for HPC
 - - written in Chapel
+- - files in [arkouda](arkouda)
 
 ### CUDA Python Object Models and Parallelism Models
+#### CUDA Python Object Models and Parallelism Models - Andy Terrel
 - - https://github.com/Roman-Supernova-PIT/phrosty
-- - CuPy is a near 1:1 map to NumPY CuPy : NumPy & SciPy for GPU
+- - CuPy is a near 1:1 map to NumPY CuPy
+- - NumPy & SciPy for GPU
+- - [website](https://cupy.dev/)
 - - https://github.com/cupy/cupy
 - - uses nvmath-oython: https://github.com/NVIDIA/nvmath-python
 - - attempted to use with grace hopper architecture
-- - 
+- - cupyx (need to look up how this differs from cupy proper)
+- NVIDIA Future of Computing: https://github.com/NVIDIA/accelerated-computing-hub
+- - files in [cupy_nvmath](cupy_nvmath)
 
-Andy Terrel
+### Seamlessly scale your python program from single CPU core to multi-GPU multi-node HPC cluster with cuNumeric - Wonchan Lee, Manolis Papadakis, Mike Bauer, Bo Dong
+- - 
 
 ### Various notes and comments
 - - Dragon for HPC
