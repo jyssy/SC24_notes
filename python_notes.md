@@ -27,7 +27,6 @@ Repo of [images](python_demo) from the Python workshop
 ### Coiled
 - - https://www.coiled.io/
 - - also reinvigorated SLURM arrays
-- - 
 
 ### DynD
 - - https://github.com/libdynd/dynd-python
