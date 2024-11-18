@@ -28,4 +28,31 @@ Repo of [images](python_demo) from the Python workshop
 
 ### DynD
 - - https://github.com/libdynd/dynd-python
-- -  
+
+### Arkouda
+- - https://github.com/Bears-R-Us (Bears R Us GitHub repo a the high level)
+- - https://pypi.org/project/arkouda/
+- - https://pypi.org/project/arkouda/
+- - arkouda client written in python
+- - the ideais that we need to scale python to work in the cloud
+- - install arkouda: https://bears-r-us.github.io/arkouda/setup/install_menu.html
+- - docker containers: https://hub.docker.com/r/hokiegeek2/arkouda-server?
+- - if you can write numpy code, you can write arkouda code
+- - More than NumPY for HPC
+- - written in Chapel
+
+### CUDA Python Object Models and Parallelism Models
+- - https://github.com/Roman-Supernova-PIT/phrosty
+- - CuPy is a near 1:1 map to NumPY CuPy : NumPy & SciPy for GPU
+- - https://github.com/cupy/cupy
+- - uses nvmath-oython: https://github.com/NVIDIA/nvmath-python
+- - attempted to use with grace hopper architecture
+- - 
+
+Andy Terrel
+
+### Various notes and comments
+- - Dragon for HPC
+- - https://dragonhpc.org/portal/index.html
+- - https://github.com/DragonHPC/dragon
+
