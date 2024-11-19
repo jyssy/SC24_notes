@@ -32,3 +32,10 @@ Main causes:
 - - comments about python being more expensive than C
 - - files in [dftracer](dftracer)
 
+### Efficient weighted graph matching on GPUs
+
+- - [paper](https://doi.org/10.1109/SC41406.2024.000)
+- - Pacific Northwest National Laboratory
+- - articles about runtime
+- - - [What is runtime?](https://www.techtarget.com/searchsoftwarequality/definition/runtime)
+- - - 
