@@ -47,3 +47,5 @@
 `NVIDIA cuPyNumeric aspires to be a drop-in replacement library for NumPy, bringing distributed and accelerated computing on the NVIDIA platform to the Python community. It allows researchers and scientists to write their research programs productively using native Python language and familiar tools without having to worry about parallel computing or distributed computing. cuPyNumeric and Legate can then easily scale their programs from single-CPU computers to MGMN supercomputers, without changing the code.`
 
 [NVIDIA accelerated-computing-hub on GutHub](https://github.com/NVIDIA/accelerated-computing-hub)
+
+[some python for HPC](https://github.com/dionhaefner/pyhpc-benchmarks)
