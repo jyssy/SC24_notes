@@ -1,6 +1,6 @@
 ## Can Python Do for HPC What It Did for Machine Learning?
 
-- -https://sc24.conference-program.com/presentation/?id=bof213&sess=sess633
+-https://sc24.conference-program.com/presentation/?id=bof213&sess=sess633
 
 ### Description
 
@@ -8,37 +8,37 @@
 
 ### Notes
 
-- - Parla: HPC tasks for shared-memory heterpgeneous npodes in Python
-- - MPI + X where X = `parla`
-- - [parla.py](https://github.com/ut-parla/Parla.py)
-- - There are namespaces in parla
-- - uses containerizations
-- - PArrays and CrossPy
-- - CrossPY [getting started guide](https://users.oden.utexas.edu/~byou/crosspy/user/start/quickstart.html)
+- Parla: HPC tasks for shared-memory heterpgeneous npodes in Python
+- MPI + X where X = `parla`
+- [parla.py](https://github.com/ut-parla/Parla.py)
+- There are namespaces in parla
+- uses containerizations
+- PArrays and CrossPy
+- CrossPY [getting started guide](https://users.oden.utexas.edu/~byou/crosspy/user/start/quickstart.html)
 
 ###
 
-- - computational workkflows in PyCOMPS
-- - [pypi page for PyCOMPSS](https://pypi.org/project/pycompss/)
-- - [PyCOMPSS documentation](https://compss-doc.readthedocs.io/en/stable/)
-- - can work with PyMPI
+- computational workkflows in PyCOMPS
+- [pypi page for PyCOMPSS](https://pypi.org/project/pycompss/)
+- [PyCOMPSS documentation](https://compss-doc.readthedocs.io/en/stable/)
+- can work with PyMPI
 
 ![Workflow templates](images/workflows_templates.jpg "workflow templates")
 
-- -
+-
 
 ### PyKokkos: a performance framework
 
-- - [Pykokkos on GitHub](https://github.com/kokkos/pykokkos)
-- - writing with Pykokkos is easier for folks with C++ experience
-- - works for CPU and GGPU contexts
+- [Pykokkos on GitHub](https://github.com/kokkos/pykokkos)
+- writing with Pykokkos is easier for folks with C++ experience
+- works for CPU and GGPU contexts
 
 ### distributed tasking in Python with Legion
 
 ![brave new world of distrubuted python](images/distributed_python.jpg "brave new world of distrubuted pytho")
 
-- - pygion; pytorch; numba;
-- - all about the distrubuted python tasking
+- pygion; pytorch; numba;
+- all about the distrubuted python tasking
 
 ### cuPyNumeric: zero code
 

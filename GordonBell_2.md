@@ -2,11 +2,11 @@
 
 ### MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization
 
-- - https://www.anl.gov/article/argonne-team-breaks-new-ground-in-aidriven-protein-design
+- https://www.anl.gov/article/argonne-team-breaks-new-ground-in-aidriven-protein-design
 
 `“Demonstrating that this approach delivers strong scientific results at extreme scales is an important step toward building more robust AI models. It also moves us closer to autonomous discovery, where AI can help streamline not only experiments but the entire scientific process.” — Arvind Ramanathan, Argonne computational biologist`
 
-- - https://sc24.conference-program.com/presentation/?id=gb101&sess=sess497
+- https://sc24.conference-program.com/presentation/?id=gb101&sess=sess497
 
 #### Description
 
@@ -14,7 +14,7 @@
 
 ### Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System
 
-- - https://sc24.conference-program.com/presentation/?id=gb104&sess=sess497
+- https://sc24.conference-program.com/presentation/?id=gb104&sess=sess497
 
 #### Description
 
@@ -22,7 +22,7 @@
 
 ### Breaking the Million-Electron and 1 EFLOP/s Barriers: Biomolecular-Scale Ab Initio Molecular Dynamics Using MP2 Potentials
 
-- - https://sc24.conference-program.com/presentation/?id=gb106&sess=sess497
+- https://sc24.conference-program.com/presentation/?id=gb106&sess=sess497
 
 #### Description
 
